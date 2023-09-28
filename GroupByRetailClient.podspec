@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.13'
   s.tvos.deployment_target = '11.0'
   s.watchos.deployment_target = '4.0'
-  s.version = '0.0'
+  s.version = '0.0.0'
   s.source = { :git => 'git@github.com:groupby/gb-retailapi-swift-client.git', :tag => 'v0.0' }
 
   s.authors = 'GroupBy Inc.'
